@@ -42,7 +42,9 @@
     "jwtSecretKey": "OWJiMzVhZDQ4ZGMwNDg0N2Q4MjBmOWQwYzUwZDc1YTIzMGY5MzIyY2NhZjE4MzU1ZDUwNTQ1NjVkZmE2YTUxNTU2YzE5Y2VkZjkxZWYyYjI1N2I4NDk5NjdmM2ZmZjcxNGU3NzY4MGRlZTIyMjVlOTZlMDdmYTQ5MWZhMTcwMTA=",
     "clientTheme": "none",
     "clientThemeVariant": "",
-    "reactive": false
+    "reactive": false,
+    "entities": ["Region", "Country", "Location", "Department", "Task", "Employee", "Job", "JobHistory"],
+    "lastLiquibaseTimestamp": 1617361533000
   },
   "git-provider": "GitHub",
   "git-company": "curlySwan",
